@@ -1,0 +1,25 @@
+{
+  "name": "opencode-peon-sounds",
+  "version": "1.0.0",
+  "description": "Warcraft 3 Peon sound effects for OpenCode - plays a random Peon quote when tasks complete",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "opencode",
+    "opencode-plugin",
+    "warcraft",
+    "peon",
+    "sound",
+    "notifications"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sngeth/opencode-peon-sounds.git"
+  },
+  "author": "sngeth",
+  "files": [
+    "index.js",
+    "sounds/"
+  ]
+}
